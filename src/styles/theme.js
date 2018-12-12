@@ -27,7 +27,7 @@ const variables = {
 const defaults = {
   white: '#fff',
   black: '#10161a',
-  primary: '#eb532d',
+  primary: '#eb532d', 
   secondary: '#43bf4d',
   selection: '#ffd700'
 }

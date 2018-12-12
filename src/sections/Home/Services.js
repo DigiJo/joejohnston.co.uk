@@ -99,7 +99,7 @@ export default class Services extends PureComponent {
                 <h4>SEO</h4>
               </Flex>
               <p>
-                I improve your website's search rankings using{' '}
+                I improve search engine rankings using{' '}
                 <a href="//ahref.com" target="blank" rel="nofollow">
                   Ahref
                 </a>{' '}

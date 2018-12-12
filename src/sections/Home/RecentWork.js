@@ -62,7 +62,7 @@ export default class RecentWork extends PureComponent {
                 lineHeight={1}
                 my={[2, 2, 1]}
               >
-                Design & engineering, mixed.
+                Design & SEO, mixed.
               </Text>
             </Box>
             <Box pt={[2, 2, 0]}>

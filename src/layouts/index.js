@@ -82,6 +82,7 @@ class Template extends Component {
             />
             <link rel="canonical" href={url} />
             <link rel="stylesheet" href={`/css/syntax-${theme.name}.css`} />
+            <html lang="en" />
           </Helmet>
           <SEO {...meta} />
           {isLoaded ? (
