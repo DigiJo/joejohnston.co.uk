@@ -106,7 +106,7 @@ export default class Services extends PureComponent {
                 and{' '}
                 <a href="//screamingfrog.com" target="blank" rel="nofollow">
                   Screaming Frog
-                </a>. Combined they help me perform 
+                </a>. Combined, they help me perform 
                 keyword research, technical optimisation, perform SEO audits, and build inbound links.
               </p>
 
