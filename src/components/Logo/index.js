@@ -124,12 +124,13 @@ export const LogoIcon = styled.div`
   display: inline-flex;
   font-size: 4em;
   height: 1.25em;
+  text-transform: uppercase;
   justify-content: center;
   letter-spacing: -0.0612em;
   width: 1.25em;
 
   &:before {
-    content: 'n';
+    content: 'J';
   }
 
   &:after {

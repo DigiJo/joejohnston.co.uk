@@ -71,7 +71,7 @@ export default class ForHire extends PureComponent {
                 Want more of this?
               </Text>
               <Text textAlign="center" color="contrast.3" lineHeight="1">
-                Code, design, &amp; productivity – no 🐮💩
+                Marketing, design, &amp; SEO – no 🐮💩
               </Text>
             </Box>
           </Flex>
