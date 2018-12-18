@@ -78,7 +78,7 @@ class Template extends Component {
             <meta property="og:url" content={url} />
             <meta
               name="google-site-verification"
-              content="1oslh92jui11Q8t62gK2Sya7BMjBbwCAPIRkkDFeorw"
+              content="P38AI3peXdYvsDv9xRFdoyhV1qCCPJPT4RZPAVa9XTg"
             />
             <link rel="canonical" href={url} />
             <link rel="stylesheet" href={`/css/syntax-${theme.name}.css`} />
