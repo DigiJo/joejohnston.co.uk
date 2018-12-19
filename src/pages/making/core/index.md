@@ -19,6 +19,8 @@ stack:
  - Hugo
  - Zoho Campaign
  - SE Ranking
+ - Hootsuite
+ - Google Search Console
 ---
 
 <div class="ui-screenshot">

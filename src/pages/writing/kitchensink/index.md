@@ -127,7 +127,7 @@ Add `embed--inline` class to make image inline and flow with the content <img cl
 
 ##### Floated Right
 
-<img class="embed--right" src="http://cultofthepartyparrot.com/parrots/rightparrot.gif" alt="Party!" /> Add `embed--right` class to float image to the right. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis similique quisquam, quibusdam veritatis, voluptatum provident atque qui rem cupiditate illum eveniet, tempora at temporibus quis.
+ Add `embed--right` class to float image to the right. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis similique quisquam, quibusdam veritatis, voluptatum provident atque qui rem cupiditate illum eveniet, tempora at temporibus quis.
 
 #### Full Width Image
 
@@ -142,4 +142,4 @@ Styles apply to `video`, `embed`, `object`, and `iframe`s too!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_xzGCRYksnU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 *Here's a sample from one of the entries.*
 
-**That's it!** Happy blogging. <img class="embed--inline" src="http://cultofthepartyparrot.com/parrots/partyparrot.gif" alt="Party!" />
+**That's it!** Happy blogging. 

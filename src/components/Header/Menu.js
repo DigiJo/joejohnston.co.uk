@@ -84,7 +84,7 @@ class Menu extends PureComponent {
             </NavLink>
           </NavItem>
           <NavItem>
-            <NavLink to="/at">
+            <NavLink to="/contact">
               <Mail />
               Contact
             </NavLink>

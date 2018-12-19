@@ -1,8 +1,8 @@
 ---
 cover: ./cover.jpg
-title: The 3 pillars of Cofounder Validation
+title: Cofounder Validation
 subtitle: Respect, idea validation, shared vision.
-date: "2018-12-18"
+date: "2018-12-16"
 category: Business
 draft: false
 model: post

@@ -170,11 +170,12 @@ export default class Banner extends PureComponent {
             <Copy>
               <h1>Grow with Joe!</h1>
               <p>
-                I'm Joe - founder of Budibase and leading Belfast marketing consultant. 
+                I'm Joe - cofounder of Budibase and leading Belfast marketing consultant. 
               </p>
               <p>
-              I build websites, rank them high on Google, and generate leads for clients. 
+                I build websites, rank them high on Google, and generate leads for clients.
               </p>
+         
               <Box mt="1.25em">
                 <ButtonLink
                   m="0.25em 0.5em 0.25em 0"
@@ -188,7 +189,7 @@ export default class Banner extends PureComponent {
                 <ButtonLink
                   m="0.25em 0.5em 0.25em 0"
                   minWidth="10.25em"
-                  to="/at"
+                  to="/contact"
                 >
                   <Mail />
                   Get in touch

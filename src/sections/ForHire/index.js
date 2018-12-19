@@ -64,7 +64,7 @@ export default class ForHire extends PureComponent {
                 <Folder />
                 View works
               </ButtonLink>
-              <ButtonLink m="0.25em" minWidth="10.25em" to="/at">
+              <ButtonLink m="0.25em" minWidth="10.25em" to="/contact">
                 <Mail />
                 Get in touch
               </ButtonLink>
