@@ -2,7 +2,7 @@
 cover: ./cover.jpg
 title: Your brand needs a story
 subtitle: Features tell, benefits sell, stories resell
-date: "2018-12-18"
+date: "2018-12-19"
 category: Marketing
 draft: false
 model: post
@@ -25,29 +25,27 @@ When I was a young, enthusiastic marketeer, **all I cared about were numbers on 
 <img src="./leads.jpg" alt="Leads" />
 
 
-We will adapt to whoever the prospect wants us to be, forgetting our own identity and the company's. This leads to problems down the line; tough communication, high expectations, additional support queries.
+As marketeers, we will adapt to whoever the prospect wants us to be. As we do this, we lose our own identity. This leads to problems down the line including tough communication, high expectations, additional support queries.
 
-> It's impossible to be everyone to everyone; it's better to be someone to someone.**
+> It's impossible to be everyone to everyone; it's better to be someone to someone.
 
 ##So how do you be someone to someone?
 
-Telling a story gives you identity. It tells the world, 'this is who I am, this is my journey, come join me'. It defines who you are; you are someone, not everyone.
+Telling a story gives you identity. It tells the world, 'this is who I am, this is my journey, come join me'. It defines who you are. You are someone, not everyone.
 
 <img src="./someone.jpg" alt="Someone" />
 
-If your story resonates with your target market, attracting loyal followers and customers is easier. 
+If your story resonates with your target market, attracting loyal customers and followers is easier. 
 
-You might find the quantity of leads dropping, but the quality will improve. You are now targeting followers and not leads.
+You might find the quantity of leads dropping, but the quality will improve. You are now targeting followers, not leads.
 
-When you attract these new loyal customers, communicating with them will be easier. They will understand and relate to you better. 
+When you attract new loyal customers, communicating with them will be easier. They will understand and relate to you better. You won't have to be someone your not. You are now someone to someone.
 
-You don't have to be someone your not, just continue being who you are - they're already bought into that, give them more. You are now someone to someone.
+##How do I tell a story?
 
-##So how do I tell a story?
+Why does your business exist? The answer to this question is your story.
 
-Why does your business exist? The answer to this question is your story. 
-
-It's that simple, but to explain the why part of that equation, here is a video by Simon Sinek:
+It's that simple, but to explain the why part of that question, here is a video by Simon Sinek:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u4ZoJKF_VuA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
@@ -62,11 +60,11 @@ Blake was travelling Argentina in 2006 and was astonished to witness thousands o
 
 <img src="./toms.jpg" alt="Toms" />
 
-Blake shared the story of Toms to the world. Unique from other shoe manufacturers, it resonated with millions of consumers around the world.
+Blake shared the story of Toms to the world. Unique from other shoe manufacturers, the story resonated with millions of consumers around the world.
 
-Blake has developed the Toms' story, and they now provide help with water, safe birth, and eye sight.
+Blake has continued to develope Toms' story and they now provide help with water, safe birth, and eye sight.
 
-Consumers buy the Toms story, and the people who buy the story, follow the company, its vision, and its future.
+Consumers buy the Toms story. The people who buy the story, follow the company, its vision, and its future.
 
 ##Tell the world your story
 When designing your next website, organising your next campaign, defining your company's vision, think about your brand's story and tell it. Once you have the story, sell, hire and connect with people who believe in it.
