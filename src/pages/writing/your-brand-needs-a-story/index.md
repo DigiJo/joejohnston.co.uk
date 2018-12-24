@@ -60,7 +60,7 @@ Blake was travelling Argentina in 2006 and was astonished to witness thousands o
 
 <img src="./toms.jpg" alt="Toms" />
 
-Blake shared the story of Toms to the world. Unique from other shoe manufacturers, the story resonated with millions of consumers around the world.
+Blake shared the story of Toms to the world. Unique from other shoe manufacturers, the story resonated with millions of consumers.
 
 Blake has continued to develope Toms' story and they now provide help with water, safe birth, and eye sight.
 
@@ -69,7 +69,7 @@ Consumers buy the Toms story. The people who buy the story, follow the company, 
 ##Tell the world your story
 When designing your next website, organising your next campaign, defining your company's vision, think about your brand's story and tell it. Once you have the story, sell, hire and connect with people who believe in it.
 
-If you have a story to tell, let me here it - head to the [contact page]
+If you have a story to tell, let me here it - head to my [contact page]
 (/contact) and leave me a note.
 
 **Please sign-up to my newsletter below. I want to tell the world my story, including you.**
