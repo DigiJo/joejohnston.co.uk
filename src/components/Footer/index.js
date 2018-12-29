@@ -164,9 +164,6 @@ class Footer extends PureComponent {
           >
             <Instagram /> Instagram
           </FooterLink>
-          <FooterLink to="/resume.pdf" target="_blank" rel="nofollow">
-            <FileText /> Resumé
-          </FooterLink>
         </Links>
       </FooterContainer>
     )

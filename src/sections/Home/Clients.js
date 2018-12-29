@@ -6,12 +6,12 @@ import Text from '../../components/Text'
 import Flex from '../../components/Flex'
 import Wrapper from '../../components/Wrapper'
 
-import svgBugwolf from '../../assets/img/clients/bugwolf.svg'
-import svgCarful from '../../assets/img/clients/carful.svg'
-import svgMana from '../../assets/img/clients/mana.svg'
-import svgPhaxio from '../../assets/img/clients/phaxio.svg'
-import svgVyllage from '../../assets/img/clients/vyllage.svg'
-import svgXTeam from '../../assets/img/clients/x-team.svg'
+import svgAime from '../../assets/img/clients/aime.svg'
+import svgBudibase from '../../assets/img/clients/budibase.svg'
+import svgCore from '../../assets/img/clients/core.svg'
+import svg7tg from '../../assets/img/clients/7tg.svg'
+import svgDigijo from '../../assets/img/clients/digijo.svg'
+import svgTm3 from '../../assets/img/clients/tm3.svg'
 import { flex } from 'styled-system/dist/styles'
 
 const Container = styled.div`
@@ -54,7 +54,7 @@ export default class Services extends PureComponent {
               my={3}
               w={[1, 1 / 2, 1 / 3, 1 / 3, 1 / 6, 1 / 6]}
             >
-              <Logo src={svgBugwolf} company="Bugwolf" />
+              <Logo src={svgAime} company="AIME" />
             </Flex>
             <Flex
               alignItems="center"
@@ -64,7 +64,7 @@ export default class Services extends PureComponent {
               my={3}
               w={[1, 'auto', 1 / 3, 1 / 3, 1 / 6, 1 / 6]}
             >
-              <Logo src={svgXTeam} company="X-Team" />
+              <Logo src={svgBudibase} company="Budibase" />
             </Flex>
             <Flex
               alignItems="center"
@@ -72,7 +72,7 @@ export default class Services extends PureComponent {
               my={3}
               w={[1, 1 / 2, 1 / 3, 1 / 3, 1 / 6, 1 / 6]}
             >
-              <Logo src={svgPhaxio} company="Phaxio" />
+              <Logo src={svg7tg} company="7TG" />
             </Flex>
             <Flex
               alignItems="center"
@@ -82,7 +82,7 @@ export default class Services extends PureComponent {
               my={3}
               w={[1, 'auto', 1 / 3, 1 / 3, 1 / 6, 1 / 6]}
             >
-              <Logo src={svgMana} company="MANA" />
+              <Logo src={svgCore} company="Core" />
             </Flex>
             <Flex
               alignItems="center"
@@ -90,7 +90,7 @@ export default class Services extends PureComponent {
               my={3}
               w={[1, 1 / 2, 1 / 3, 1 / 3, 1 / 6, 1 / 6]}
             >
-              <Logo src={svgVyllage} company="Vyllage" />
+              <Logo src={svgDigijo} company="Digijo" />
             </Flex>
             <Flex
               alignItems="center"
@@ -100,7 +100,7 @@ export default class Services extends PureComponent {
               my={3}
               w={[1, 'auto', 1 / 3, 1 / 3, 1 / 6, 1 / 6]}
             >
-              <Logo src={svgCarful} company="Carful" />
+              <Logo src={svgTm3} company="TM3" />
             </Flex>
           </Flex>
         </Wrapper>

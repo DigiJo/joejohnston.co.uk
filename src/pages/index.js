@@ -55,7 +55,7 @@ export const pageQuery = graphql`
       sort: { fields: [frontmatter___date], order: DESC }
       filter: {
         frontmatter: {
-          title: { ne: "Phaxio" }
+          title: { ne: "Budibase" }
           model: { eq: "project" }
           draft: { ne: true }
         }
