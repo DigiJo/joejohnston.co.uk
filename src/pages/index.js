@@ -30,6 +30,7 @@ class Home extends PureComponent {
 
     return ( 
       <div> 
+        
         <Banner cover={landingCover} />
         <LatestPost post={latestPost} />
         <Services />

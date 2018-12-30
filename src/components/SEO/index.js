@@ -6,7 +6,7 @@ export default class SEO extends PureComponent {
     const { title, siteTitle, image, description } = this.props
 
     return (
-      <Helmet title={`${title} • ${siteTitle}`}>
+      <Helmet title={`${title}`}>
         {description && <meta name="description" content={description} />}
         {description && (
           <meta property="og:description" content={description} />

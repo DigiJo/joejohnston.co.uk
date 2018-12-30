@@ -8,6 +8,7 @@ import { Container as BannerContainer } from '../../components/Banner'
 import Box from '../../components/Box'
 import { ButtonLink } from '../../components/Button'
 import Wrapper from '../../components/Wrapper'
+import SEO from '../../components/SEO'
 
 import webmCover from '../../assets/vid/landing-cover.webm'
 import mp4Cover from '../../assets/vid/landing-cover.mp4'
@@ -162,6 +163,10 @@ export default class Banner extends PureComponent {
           <source src={mp4Cover} type="video/mp4" />
         </Video>
         <Wrapper>
+        <SEO 
+        title="Joe Johnston - Leading Belfast Marketing Consultant" 
+        description="I am Joe — founder of Budibase and leading Belfast marketing consultant. I build beautiful websites and rank them high on Google."
+        />
           <Hero>
             <Avatar>
               <Silhouette />
