@@ -72,7 +72,7 @@ export default class Services extends PureComponent {
               my={3}
               w={[1, 1 / 2, 1 / 3, 1 / 3, 1 / 6, 1 / 6]}
             >
-              <Logo src={svg7tg} company="7TG" />
+              <Logo src={svgCore} company="Core" />
             </Flex>
             <Flex
               alignItems="center"
@@ -82,7 +82,7 @@ export default class Services extends PureComponent {
               my={3}
               w={[1, 'auto', 1 / 3, 1 / 3, 1 / 6, 1 / 6]}
             >
-              <Logo src={svgCore} company="Core" />
+              <Logo src={svg7tg} company="7TG" />
             </Flex>
             <Flex
               alignItems="center"
@@ -90,7 +90,7 @@ export default class Services extends PureComponent {
               my={3}
               w={[1, 1 / 2, 1 / 3, 1 / 3, 1 / 6, 1 / 6]}
             >
-              <Logo src={svgDigijo} company="Digijo" />
+            <Logo src={svgTm3} company="TM3" />
             </Flex>
             <Flex
               alignItems="center"
@@ -100,7 +100,7 @@ export default class Services extends PureComponent {
               my={3}
               w={[1, 'auto', 1 / 3, 1 / 3, 1 / 6, 1 / 6]}
             >
-              <Logo src={svgTm3} company="TM3" />
+              <Logo src={svgDigijo} company="Digijo" />
             </Flex>
           </Flex>
         </Wrapper>
