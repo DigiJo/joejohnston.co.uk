@@ -11,7 +11,7 @@ type: Food
 
 Salty, spicy, wholesome goodness (badness). Chinese takeaway fuels the average Belfast household at least once per week - a monumental staple in our diet. But what are the best Chinese takeaways in North Belfast?
 
-North Belfast is a beautiful part of the city with the Cavehill, Belfast Castle, and annual riots entertaining the eye. It's also were I was born and raised, so I'm fully qualified to present the best Chinese takeaways, North Belfast has to offer.
+North Belfast is a beautiful part of the city with the Cavehill, Belfast Castle, and annual riots entertaining the eye. It's also where I was born and raised, so I'm fully qualified to present the best Chinese takeaways, North Belfast has to offer.
 
 TL:DR - If you have no time to read the full post, I've included my top 5 below:
 
