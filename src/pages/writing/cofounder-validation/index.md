@@ -11,4 +11,4 @@ type: Cofounder
 
 This post has been moved to the Budibase blog as it fitted that source better.
 
-You can read it here - [co-founder validation](https://www.budibase.com/blog/posts/cofoundervalidation/)
+You can read it here - [co-founder validation](https://www.budibase.com/blog/cofoundervalidation/)
