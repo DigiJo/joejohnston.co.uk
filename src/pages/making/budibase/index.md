@@ -1,7 +1,7 @@
 ---
 cover: ./cover.jpg
 title: Budibase
-subtitle: A better and faster way to build a SaaS Applications
+subtitle: Cofounder and chief marketer at Budibase
 date: 2018-11
 category: Co-Founder
 model: project

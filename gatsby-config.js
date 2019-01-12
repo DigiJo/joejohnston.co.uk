@@ -3,7 +3,7 @@ module.exports = {
 		title: 'Leading Belfast Marketing Consultant',
 		author: 'Joseph Johnston',
 		description: 'I am Joe — founder of Budibase and leading Belfast marketing consultant. I build beautiful websites and rank them high on Google.',
-		keywords: ['website', 'consulting', 'portfolio', 'blog', 'design', 'development'],
+		keywords: ['website', 'consulting', 'portfolio', 'blog', 'design', 'SEO'],
 		siteUrl: 'https://joejohnston.co.uk',
 		email: 'hi@joejohnston1989.co.uk',
 		forHire: true

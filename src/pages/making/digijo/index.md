@@ -7,7 +7,7 @@ category: founder
 model: project
 type: Marketing
 
-description: I must confess, I am Digijo. Well, I was Digijo until a month of two ago. Under the brand Digijo I provided local Belfast companies with SEO and web design consultancy.
+description: I must confess, I am Digijo. Well, I was Digijo until the end of 2018. Under the brand Digijo I provided local Belfast companies with SEO and web design consultancy.
 roles:
  - SEO
  - Web Development
